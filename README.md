@@ -9,8 +9,8 @@ I'm a Computer Engineering student at UC Irvine, specializing in **Machine Learn
 
 ## 🚀 Featured Projects
 
-* 📈 **[Automated E2E Pipeline for ML Stock Forecasting](link-to-repo):** An end-to-end SQLite-backed ML pipeline predicting ETF volatility using LightGBM and technical indicators (RSI/MACD), architected to train a mix of advanced and lightweight ML models on time-series data.
-* ⚡ **[5-Stage Pipelined MIPS Processor](link-to-repo):** Simulated and validated RTL design for a pipelined processor using robust Vivado testbenches. 
+* 📈 **[Automated E2E Pipeline for ML Stock Forecasting](https://github.com/MCatahayIDE/ETF-MLPredictor):** An end-to-end SQLite-backed ML pipeline predicting ETF volatility using LightGBM and technical indicators (RSI/MACD), architected to train a mix of advanced and lightweight ML models on time-series data.
+* ⚡ **[5-Stage Pipelined MIPS Processor](https://github.com/MCatahayIDE/Pipelined-MIPS-Processor):** Simulated and validated RTL design for a pipelined processor using robust Vivado testbenches. 
 
 ## 📫 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/marcuscatahay/)
