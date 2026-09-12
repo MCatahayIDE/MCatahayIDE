@@ -1,7 +1,8 @@
-# Hi there, I'm Marcus 👋
+# Hi there, I'm Marcus 👋 
 
 I'm a Computer Engineering student at UC Irvine, specializing in **Machine Learning Engineering** and exploring the field's intersection with **Hardware Systems** and **Computer Architecture**. 
 
+FIX: Deprecated Technical Experience, Proejects, Requires Heavy Updates and Revisions
 ## 🛠️ Technical Experience
 * **Machine Learning & Data:** Python, LightGBM, Scikit-learn, SQLite, SQLAlchemy, ETL Pipelines, Time-Series Forecasting
 * **Hardware & Embedded:** Verilog, Vivado, SystemVerilog, FPGA Validation, C/C++, MIPS Architecture
